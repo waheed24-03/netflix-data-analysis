@@ -32,4 +32,3 @@ Netflix Titles Dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/net
 
 ---
 
-## 📎 Folder Structure
