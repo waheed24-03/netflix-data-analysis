@@ -34,3 +34,6 @@ Netflix Titles Dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/net
 # 👤 Author
 - Syed Abdul Waheed
 - Data Science Enthusiast | Python Developer | Automation Explorer
+- Data Science Enthusiast | Python Developer | Automation Explorer
+- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
+- 🐙 GitHub: waheed24-03
