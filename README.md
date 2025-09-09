@@ -31,9 +31,4 @@ Netflix Titles Dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/net
 > 🎯 Unlike most projects, this analysis displays **the best-rated movie/show from 5 countries** (US, India, UK, Canada, France) in an easy-to-read card format — enhancing the storytelling value.
 
 ---
-# 👤 Author
-- Syed Abdul Waheed
-- Data Science Enthusiast | Python Developer | Automation Explorer
 
-- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
-- 🐙 GitHub: waheed24-03
